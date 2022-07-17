@@ -1,6 +1,5 @@
 # Jogo Paciência em C
-![Menu](/assets/Menu.png "Menu inicial do jogo.").
-![Jogo](/assets/Jogo.png "Início do jogo.").
+![Menu](/assets/menujogo.png "Menu inicial do jogo.").
  
  - Jogo criado para um projeto da faculdade em Estrutura de Dados.
  - Totalmente escrito em C
